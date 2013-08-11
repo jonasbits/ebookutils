@@ -1,6 +1,7 @@
 ebookutils is a collection of utilities which are useful for working
 with ebooks, specifically the REB1100/1150/1200 models made by
-RCA in the early 2000s. Currently, it includes the following:
+RCA in the early 2000s as well as the eBookwise 1150. 
+Currently, it includes the following:
 
 impbuild: automated creation of ebooks in the IMP format.
 
